@@ -1,5 +1,5 @@
 ## Compose sample 
-### Angular service
+### React service
 
 Project structure:
 ```
