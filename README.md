@@ -57,9 +57,9 @@ CONTAINER ID        IMAGE               COMMAND                  CREATED        
 
 ```
 
-After the application starts, navigate to `http://localhost:4200` in your web browser.
+After the application starts, navigate to `http://localhost:3000` in your web browser.
 
-![page](output.jpg)
+
 
 Stop and remove the container
 
