@@ -1,6 +1,6 @@
 ## Compose sample 
 ### React service
-
+Standalone docker-compose setup for react. This option is present to allow development in react when it is difficult to setup an environment locally. Setup is a modified version of awesome-compose angular example. Do checkout [awesome-compose](https://github.com/docker/awesome-compose) for your preferred stack(it probably already has everything available for you).
 Project structure:
 ```
 .
